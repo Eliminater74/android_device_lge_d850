@@ -5,3 +5,8 @@ rild.libpath=/vendor/lib/libril-qc-qmi-1.so
 ro.telephony.default_network=9
 
 telephony.lteOnCdmaDevice=1
+#
+# OTA Updates
+ro.ota.romname=Pac-Man Rom LP 5.1.X
+ro.ota.version=201505XX
+ro.ota.manifest=https://romhut.com/roms/pac-man-rom-lp-5-1-x/ota.xml
